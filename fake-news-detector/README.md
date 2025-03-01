@@ -90,22 +90,7 @@ npm start
 2. Start the **React frontend** (`npm run dev`).
 3. Enter a news article in the text box.
 4. Click **Analyze**.
-5. Get **Real** (Green) or **Fake** (Red) results.
-
----
-
-## 📊 Model Training (Optional)
-
-The backend trains a **Naive Bayes classifier** on a dataset of fake and real news. To retrain the model:
-
-```sh
-python train.py
-```
-
-It generates and saves:
-
-- `model/news_classifier.pkl`
-- `model/vectorizer.pkl`
+5. Get **Real** or **Fake** results.
 
 ---
 
