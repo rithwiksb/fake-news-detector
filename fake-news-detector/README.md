@@ -87,7 +87,7 @@ npm start
 ## 🎯 Usage
 
 1. Start the **FastAPI backend** (`uvicorn app:app --reload`).
-2. Start the **React frontend** (`npm start`).
+2. Start the **React frontend** (`npm run dev`).
 3. Enter a news article in the text box.
 4. Click **Analyze**.
 5. Get **Real** (Green) or **Fake** (Red) results.
