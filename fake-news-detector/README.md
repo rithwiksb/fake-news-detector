@@ -86,7 +86,7 @@ npm start
 
 ## 🎯 Usage
 
-1. Start the **FastAPI backend** (`uvicorn main:app --reload`).
+1. Start the **FastAPI backend** (`uvicorn app:app --reload`).
 2. Start the **React frontend** (`npm start`).
 3. Enter a news article in the text box.
 4. Click **Analyze**.
